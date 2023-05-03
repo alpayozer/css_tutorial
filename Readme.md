@@ -1,0 +1,1 @@
+Patika eğitimi kapsamında Css dersinin ödevlerini içermektedir.
