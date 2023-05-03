@@ -1,0 +1,32 @@
+.table {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.table1 {
+    background-color: #EEEEEE;
+    margin-left: 350px;
+}
+.input{
+    width: 300px;
+}
+
+body {
+    text-align: center;
+}
+
+.col2 {
+    background-color: #7EE5DA;
+    width: 37%;
+}
+
+.col3 {
+    background-color: #70CCC2;
+}
+a{
+    color:blue;
+}
+
+.col4 {
+    background-color: #62B3AA;
+}
